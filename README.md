@@ -1,5 +1,3 @@
-# blockchain_ui_demo
-
 # CryptoRight Blockchain Copyright System
 
 ## Summary
